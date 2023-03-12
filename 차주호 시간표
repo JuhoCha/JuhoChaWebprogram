@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<h2>시간표</h2>
+<table border="1">
+    <tr>
+        <th>교시</th> <th>월</th> <th>화</th> <th>수</th> <th>목</th> <th>금</th>
+    </tr>
+    <tr>
+        <th>1</th> <th>웹 프로그래밍1</th> <th> </th> <th>인공지능개론</th> <th>데이터사이언스 기초</th> <th>웹 프로그래밍1</th>
+    </tr>
+    <tr>
+        <th>2</th> <th>웹 프로그래밍1</th> <th>인공지능개론</th> <th>인공지능개론</th> <th>데이터사이언스 기초</th> <th>웹 프로그래밍1</th>
+    </tr>
+    <tr>
+        <th>3</th> <th> </th> <th>대학영어회화1</th> <th>지구과학의 세계</th> <th> </th> <th> </th>
+    </tr>
+    <tr>
+        <th>4</th> <th> </th> <th>대학영어회화1</th> <th>지구과학의 세계</th> <th> 논리수학</th> <th> </th>
+    </tr>
+    <tr>
+        <th>5</th> <th> </th> <th>인제 새내기 세미나</th> <th>논리수학</th> <th> </th> <th> </th>
+    </tr>
+    <tr>
+        <th>6</th> <th>빅데이터기초</th> <th> </th> <th>논리수학</th> <th> </th> <th> </th>
+    </tr>
+    <tr>
+        <th>7</th> <th>빅데이터기초</th> <th> </th> <th> </th> <th> </th> <th> </th>
+    </tr>
+</table>
