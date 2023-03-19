@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>애옹이의 모습</title>
+        <meta charset="utf-8">
+    </head>
+
+    <body>
+        <h1>고양이의 모습</h1>
+        <br>
+        야옹야옹 귀여운 고양이의 모습을 보여주어요.
+        <br>
+        <figure>
+            <a href="https://ichef.bbci.co.uk/news/640/cpsprodpb/E172/production/_126241775_getty_cats.png">
+                <img src="애옹이 1.png"
+            </a>
+
+        </figure>
+
+    </body>
+</html>
