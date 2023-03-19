@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML요소</title>
+    </head>
+    <body>
+        <h2><em>차주호의 취미</em></h2>
+        <P><strong>1번: 노래부르기</strong>
+            <br> - 어릴때부터 노래 부르기를 좋아해서 잘 부르지는 못하지만 노래 부를때 행복하다.</br>
+        </P>
+        <p><strong>2번: 게임하기</strong>
+            <br> - 친구들과 함께 하는게 너무 즐거워서 같이 하기 위해 게임을 시작했는데 재밌었다.</br>
+        </p>
+        <p><strong>3번: 운동하기<embed width="380" height="260" src="https://youtu.be/X_kqzuk3MXo"></a> </strong>
+            <br> - 오랫동안 운동을 해와서 운동하는게 습관이 되었고 운동할때가 가장 즐거운것 같다. 
+        </p>
+    </body>
+</html>
