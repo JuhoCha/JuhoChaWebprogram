@@ -7,9 +7,9 @@
 
 <body>
   <h1>고양이의 하루</h1>
-  <audio controls autoplay src="cat_meowing.mp3"></audio>
+  <audio controls autoplay src="C:\Users\chaho\Downloads\y2mate.com - Vol85 고양이 관련 효과음 모음 울음소리 우는소리 귀여운 소리.mp3"></audio>
   <br>
   야옹야옹 귀여운 고양이의 하루를 살펴보아요. 깜찍한 우리의 친구 LUCKY는 오늘 하루 어떻게 지냈을까요?<br>
-  <video controls autoplay src="Cat.mp4" width="100%"></video>
+  <video controls autoplay src="C:\Users\chaho\Downloads\y2mate.com - 혼쭐나는 고양이_360p.mp4" width="100%"></video>
 </body>
 </html>
