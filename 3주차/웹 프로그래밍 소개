@@ -6,19 +6,21 @@
     <body>
         <h2>웹 프로그래밍 소개</h2>
         <h3>목차</h3>
-        <li> <a href="https://namu.wiki/w/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8" title="웹의 역사"> 웹의 역사</a></li>
-        <li> <a href="https://namu.wiki/w/HTML" title="HTML의 기초"> HTML의 기초</a></li>
-        <li> <a href="https://namu.wiki/w/CSS" title="CSS의 기초"> CSS의 기초</a></li>
+        <li> <a href="#web1" title="웹의 역사"> 웹의 역사</a></li>
+        <li> <a href="#web2" title="HTML의 기초"> HTML의 기초</a></li>
+        <li> <a href="#web3" title="CSS의 기초"> CSS의 기초</a></li>
 
-        <P><strong>웹의 역사</strong>
+        <a id="web1"></a> <p>웹의 역사
             <br>웹은 World Wide Web의 줄인 말이다. 인터넷의 효시로는 미국 국방청에서 APARNET이다. 웹 브라우저는 사용자에게 편리한
             인터페이스를 제공하였고, 인터넷을 대중화하는데 많은 기여를 하였다.</br>
-        </P>
-        <p><strong>HTML의 기초</strong>
+        </p>
+        
+        <a id="web2"></a> <p><strong>HTML의 기초</strong>
             <br>HTML이란 Hyper Text Markup Language의 줄인 말로서, 하이퍼텍스트 문서를 구성하기 위한 언어이다. 최근에는 새로운
             버전인 HTML5가 각광받고 있다.</br>
         </p>
-        <p><strong>CSS의 기초</strong>
+
+        <a id="web3"></a> <p><strong>CSS의 기초</strong>
             <br>CSS이란 Cascading Style Sheets의 줄인 말이며,웹 문서의 스타일을 지칭할 때 사용한다. 문서 전체의 일관성을
             유지할 수 있어 스타일 변경에 용이하다.</br>
         </p>
