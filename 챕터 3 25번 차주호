@@ -10,12 +10,29 @@
         <br>
         야옹야옹 귀여운 고양이의 모습을 보여주어요.
         <br>
-        <figure>
-            <a href="https://ichef.bbci.co.uk/news/640/cpsprodpb/E172/production/_126241775_getty_cats.png">
-                <img src="애옹이 1.png"
-            </a>
-
-        </figure>
-
+        <table border="3">
+            <tr>
+                <td>
+                    <a href="C:\Users\chaho\Downloads\장화신은떼껄룩.jpg" target="야옹">
+                        <img src="C:\Users\chaho\Downloads\장화신은떼껄룩.jpg" width="150" hight="100">
+                    </a>
+                </td>
+                <td>
+                     <a href="C:\Users\chaho\Downloads\톰톰톰.jpg" target="야옹">
+                        <img src="C:\Users\chaho\Downloads\톰톰톰.jpg" width="150" hight="100">
+                     </a>
+                </td>
+                <td>
+                    <a href="C:\Users\chaho\Downloads\너랑유미랑.jpg" target="야옹">
+                        <img src="C:\Users\chaho\Downloads\너랑유미랑.jpg" width="150" hight="100">
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                    <iframe src=" " name="야옹" width="520" height="390"> </iframe>
+                </td>
+            </tr>
+        </table>
     </body>
 </html>
