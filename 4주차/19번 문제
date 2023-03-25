@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<head>
+    <title>취미list</title>
+    <style type="text/css">
+        p {font-size: 10pt}
+        .under1 {text-decoration: underline; font-style: italic; }
+        strong.under1 {text-decoration: underline; font-style: 12pt;}
+        #next { text-decoration: underline; text-align: center;}
+    </style>
+</head>
+<body>
+    <p>
+        <h2 class="under1">취미목록</h2>
+            <h4> <strong class="under1"><ul>1. 노래</ul></strong></h4>
+                <h5><li> 범퍼카: 가장 많이 부르는 랩</li>
+                    <li> 그대란 사치: 가장 많이 부르는 노래</li>
+                    <li> STAY: 최근 가장 많이 들은 노래</li>
+                </h5>
+                
+            <h4> <strong class="under1"><ul>2. 게임</ul></strong></h4>
+                <h5><li> 리그오브레전드: 친구들이랑 같이 하기 좋아서 같이 하자고 하면 자주 하게됨</li>
+                    <li> 오버워치: 그냥 자주는 아니지만 생각나서 하게 되는 게임이다 fps 못하는데 좋아함</li>
+                    <li> 스포츠 게임: 피파, 풋볼 메니저 등등 축구를 좋아해서 이런 류의 게임 진짜 많이 한다! 스팀게임 굿</li>
+                </h5>
+
+            <h4> <strong class="under1"><ul>3. 운동</ul></strong></h4>
+            <h5><li> 축구: 축구 잘 못하는데 하는거&보는걸 진짜 좋아한다!</li>
+                <li> 농구: 고등학교때 많이해서 좋다!</li>
+                <li> 맨몸운동: 헬스장도 가긴 하는데 푸쉬업, 풀업으로 구성된 단순한 운동에 매력을 느꼈다. 어제의 나보다 더 성장한 기대되고 특별한 도구 없어도 가능해서 너무 좋아한다! 같이 운동할 사람 구해용</li>
+            </h5>
+            <p id="next">19번 문제는 끝났지롱</p>
+    </p>
+</body>
