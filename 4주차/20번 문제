@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <head>
     <style type="text/css">
-        h3 { font-fmaily:"휴먼옛체" san-serif; color:blue; font-size: 20pt }
-        p { font-fmaily:"휴먼매직체" san-serif; color:red; font-size: 20pt }
+        h3 { font-family:"휴먼옛체" san-serif; color:blue; font-size: 20pt }
+        p { font-family:"휴먼매직체" san-serif; color:red; font-size: 20pt }
     </style>
 </head>
 <body>
