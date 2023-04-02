@@ -1,0 +1,11 @@
+<!doctype html>
+<head>
+<!--p써서 두개 만들어 주려고-->
+    <style type="text/css">
+        p { background-color: #ffff80; padding: 10px; border: medium dotted red;}
+    </style>
+</head>
+<!--이제 바디들어감-->
+<body>
+    <p>HTML 5 웹프로그래밍 입문</p>
+    <p>css란 문서의 style을 정의하는 속성을 모아놓은 언어이다</p>
