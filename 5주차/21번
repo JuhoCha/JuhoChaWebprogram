@@ -2,7 +2,7 @@
 <head>
 <!--p써서 두개 만들어 주려고-->
     <style type="text/css">
-        p { background-color: #ffff80; padding: 10px; border: medium dotted red;}
+        p { background-color: #ffff80; padding: 12px; border: medium dotted blue;}
     </style>
 </head>
 <!--이제 바디들어감-->
