@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+    <body>
+        <h2>회원가입</h2>
+        <form method="get" action="form_app.js">
+        이 메 일: <input type="email"/>
+        <br>
+        전화번호: <input type="tel" placeholder="-빼고 입력하세요"
+        pattern="[0-9]{11}" />
+        </br>
+        <input type="submit" value="확인"/>
+        <input type="reset" value="취소"/>
+        </form>
+    </body>
+</html>
