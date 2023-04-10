@@ -6,7 +6,7 @@
             <fieldset>
                 <legend>예약자 정보</legend>
                     예약자 :
-                    <label for="name">예약자 : </label>
+                    <label for="name"></label>
                     <input type="text" name="예약자" size="20" id="name"> <br>
                     연락처 :
                     <input type="tel" placeholder="000-0000-0000"
