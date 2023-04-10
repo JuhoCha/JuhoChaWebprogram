@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+    <body>
+        <h3>설문조사</h3>
+        <form method="post" action="form_app.js">
+            <fieldset>
+                <legend>예약자 정보</legend>
+                    예약자 :
+                    <label for="name">예약자 : </label>
+                    <input type="text" name="예약자" size="20" id="name"> <br>
+                    연락처 :
+                    <input type="tel" placeholder="000-0000-0000"
+                    pattern="[0-9]{3}-[0-9]{4}-[0-9]{4}"> <br>
+                    예약인원 : 
+                    <select name="job" size="1" >
+                        <option value="1명">1명</option> 
+                        <option value="2명" selected>2명</option>
+                        <option value="3명">3명</option> 
+                        <option value="다인">4명이상</option> 
+                    </select>
+            </fieldset>
+            <fieldset>
+                <legend>일자 선택 및 시간 선택</legend>
+                    <input type="date" name="last_date" min="2013-01-30">
+                    <input type="time" name="time_form" min="00:00" max="24:00"> 
+            </fieldset>
+            <br>
+            <input type="button" value="예약">
+            <input type="button" value="취소">
+        </form>
+    </body>
+</html>
