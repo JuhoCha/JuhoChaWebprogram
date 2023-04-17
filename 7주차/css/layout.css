@@ -19,7 +19,7 @@ hr { clear: both; }
 
 nav { margin:0 0 20px 0; float:left; } 
 
-nav ul li { float:left;    margin:0 5px; list-style:none; }
+nav ul li { float:left; margin:0 5px; list-style:none; }
 
 nav a { display:block; padding:5px; }
 
@@ -47,4 +47,10 @@ article { margin:5px 0 10px 0; }
 
 .booklist .head { margin: 15px 0 0 10px; } 
 
-.booklist ul li { float: left; margin: 5px 5px 10px 5px; list-style-type: none; }
+.booklist ul li { position: relative; left:70px; margin: 5px 5px 10px 5px; list-style-type: none; }
+/*float을 right로 바꿔봄*/
+
+/*5px로 바꿔봄 10px를*/
+.booklist li img {position: absolute; left: -70px; }
+/*대실패 ㅋㅋ#gang {float: right;}*/
+    
