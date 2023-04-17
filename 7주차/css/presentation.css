@@ -52,8 +52,8 @@ footer #SNS a { text-decoration: none; }
 
 .booklist .head { font-size: 16px; font-weight: bolder; }
 
-.booklist ul li { font-size: 12px; list-style-type: none; }
-
+.booklist ul li { font-size: 12px; list-style-type: none; float: left;}
+/*float right해서 글 오른쪽으로 가게 해봄*/
 .musiclist ul li { font-size: 12px; font-weight: bold;
     text-shadow: 0.2em 0.2em 0.2em white;
 }
