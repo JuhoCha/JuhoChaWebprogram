@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Welcome to the JavaScript</title>
+    </head>
+    <body>
+        <script type="text/JavaScript">
+            document.write("Hi my name is Juho. Good to see you guys. I'm gonna leave")
+        </script>
+    </body>
+</html>
