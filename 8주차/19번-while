@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+    </head>
+    <body>
+        <script type="text/JavaScript">
+            var n = 0, sum = 0;
+            while (n <= 1000)
+            {
+                n++;
+                if (n % 3 == 0)
+                sum = sum + n;
+            }
+            document.write(sum);
+        </script>
+    </body>
+</html>
