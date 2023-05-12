@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+    </head>
+    <body>
+        <script type="text/JavaScript">
+            var choice = prompt("입력하세요")
+            switch (choice) {
+                case "Monday":
+                document.write("월요일"); break;
+                case "Tuesday":
+                document.write("화요일");
+            }
+        </script>
+    </body>
+</html>
