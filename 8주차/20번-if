@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+    </head>
+    <body>
+        <script type="text/JavaScript">
+            var 월요일;
+            var 화요일;
+            var choice = prompt("입력하세요")
+            if (choice == "Monday")
+                document.write("월요일");
+            else if (choice == "Tuesday")
+                document.write("화요일");
+        </script>
+    </body>
+</html>
