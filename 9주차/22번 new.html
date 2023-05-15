@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script type="text/javascript">
+        now = new Date();
+        timestamp = now.getTime(); //일련의 이벤트나 데이터를 정확한 시간과 날짜로 표시하는 데 사용되는 값//
+
+        milliseconds = timestamp;
+        seconds = Math.floor(milliseconds / 1000);
+        minutes = Math.floor(seconds / 60);
+        hours = Math.floor(minutes / 60) + 9;
+        //milliseconds니까 1000해주고(소수점 이하 버리려고) 나머지 이거 이용해서 시간도 구하고 stamp해주기.//
+
+        days = Math.floor(seconds / 86400);
+        year = Math.floor(days / 365) + 1970;
+        date = Math.floor()//윤년때문에 너무 복잡// 
+        month = 0
+
+        currentHour = hours % 24;
+        currentMinute = minutes % 60;
+        currentSecond = seconds % 60; 
+        //범위 조정 해주려고. 시간은 24시간이고 분은 60분 초는 60초까지니까 이 범위를 넘어서지 않게.//
+
+        document.write(year + "년 " + month + "월 " + date + "일 " + currentHour + "시 " + currentMinute + "분 " + currentSecond + "초");
+    </script>
+</body>
+</html>
